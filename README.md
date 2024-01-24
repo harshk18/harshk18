@@ -1,3 +1,4 @@
+![logo](https://github.com/harshk18/harshk18/blob/main/GithubBanner.png)
 <h1 align="center">Hi 👋, I'm Harsh Khandelwal</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
