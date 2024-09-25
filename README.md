@@ -6,7 +6,7 @@
 <img align="right" alt="coding" width="400" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
 
 
-- 🌱 I’m currently learning **Mobile App Development using React Native**
+- 🌱 I’m currently learning **Mobile App Development using Flutter**
 
 - 👨‍💻 All of my projects are available at [https://harshkhandelwal18m.netlify.app/](https://harshkhandelwal18m.netlify.app/)
 
